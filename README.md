@@ -1,1 +1,1 @@
-# Pizza-database-project
+# Pizza-SQL-project
