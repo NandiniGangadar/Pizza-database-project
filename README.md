@@ -15,3 +15,10 @@
 ### >Helps increase revenue by identifying high-demand pizzas.
 ### >Improves inventory management by forecasting ingredient needs.
 ### >Enhances marketing strategies through customer purchase analysis.
+
+# Business problems and solutions
+## 1. Retrieve the total number of orders places
+```sql
+     select count(order_id) as total_orders
+from orders;
+```sql
